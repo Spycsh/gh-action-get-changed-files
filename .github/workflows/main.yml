@@ -41,4 +41,4 @@ jobs:
         uses: lots0logs/gh-action-get-changed-files@2.1.4
         with:
           # GitHub Personal Access Token
-          token: 8f67360a44c642716be7b78e7588851554de5756
+          token: a6f75148cf36ad7efc996c8536456db6d0d5e997
